@@ -87,8 +87,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
-var l_musicPlaylist = [
-  	{ogg: "imperialmarch.m4a", name: "Imperial March"},  
+var l_musicPlaylist = [ 
 	{ogg: "themesong.m4a", name: "Theme Song"},
 ];
 
